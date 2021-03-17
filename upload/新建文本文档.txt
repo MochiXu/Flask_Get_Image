@@ -1,0 +1,4 @@
+person_comments_image_temp_pk
+comments_id
+image_path
+status
